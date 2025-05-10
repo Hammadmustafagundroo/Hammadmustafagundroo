@@ -13,9 +13,9 @@ I'm Hammad, a first-year B.Tech Computer Science Engineering student at IUST Awa
 - Problem-solving and algorithms  
 - Understanding data structures  
 - Version control with Git & GitHub  
-- Basics of web development  
 
 ## 📫 Connect with Me
 
 - GitHub: [@Hammadmustafagundroo](https://github.com/Hammadmustafagundroo)  
-- LinkedIn: [Hammad Mustafa](https://www.linkedin.com/in/hammad-mustafa-431175332)
+- LinkedIn: [Hammad Mustafa](https://www.linkedin.com/in/hammad-mustafa-431175332)  
+- Email: [hammadgundroo@gmail.com](mailto:hammadgundroo@gmail.com)
