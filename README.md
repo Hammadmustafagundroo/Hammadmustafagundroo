@@ -1,4 +1,5 @@
-#Welcome to my GitHub! I'm Hammad, a first-year B.Tech Computer Science Engineering student at IUST Awantipora. I'm passionate about learning different programming languages and building my technical skillset as I grow into a software developer.
+# Welcome to my GitHub!  
+I'm Hammad, a first-year B.Tech Computer Science Engineering student at IUST Awantipora. I'm passionate about learning different programming languages and building my technical skillset as I grow into a software developer.
 
 ## 🌱 About Me
 
