@@ -1,36 +1,52 @@
-<h1 align="center">Welcome to my GitHub! 👋</h1>
+# Hi there, I'm Hammad Mustafa! 👋
 
-<p align="center">
-  I'm <b>Hammad</b>, a first-year <b>B.Tech Computer Science Engineering</b> student at <b>IUST Awantipora</b>.<br>
-  I'm passionate about learning different programming languages and building my technical skillset as I grow into a software developer.
+🎓 **BTech CSE | 1st Year Student**  
+💡 Eager to learn, solve problems, and build a solid foundation in software development!
+
+---
+
+## 🚀 About Me
+
+I'm a first-year Computer Science undergraduate on a journey to explore the vast world of programming. Currently, I'm diving deep into C, while also experimenting with other languages to broaden my horizons. My passion is driven by curiosity and the goal of becoming a skilled software developer.
+
+---
+
+## 🛠️ Skills & Interests
+
+- **Programming:** Learning C, exploring new languages, focusing on writing clean and structured code
+- **Core Interests:**  
+  - Web development  
+  - Software engineering  
+  - Competitive programming  
+  - Problem-solving & algorithms  
+  - Understanding data structures  
+  - Version control with Git & GitHub
+- **Hobbies:** Trekking, hiking, mountaineering
+
+---
+
+## 🌱 What I'm Working On
+
+- Expanding my programming language toolkit
+- Mastering data structures and algorithms
+- Building web development projects
+- Participating in competitive programming contests
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hammad-mustafa-431175332/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:hammadgundroo@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
 
-## 🌱 About Me
+---
 
-- 🎓 First-year CSE student at IUST Awantipora  
-- 🛠️ Currently learning: Different Languages   
-- 💡 Interests: Web development, software engineering, competitive programming  
+> “Learning never exhausts the mind.” – Leonardo da Vinci
 
-## 🧠 Skills I'm Working On
-
-- Writing clean and structured code  
-- Problem-solving and algorithms  
-- Understanding data structures  
-- Version control with Git & GitHub  
-
-## 📫 Connect with Me
-
-<div align="center">
-
-  <a href="https://github.com/Hammadmustafagundroo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hammad-mustafa"> <!-- Replace with your actual LinkedIn URL -->
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hammadgundroo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
+Thanks for dropping by my profile! Let's connect and grow together 🚀
