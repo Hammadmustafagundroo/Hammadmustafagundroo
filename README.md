@@ -38,14 +38,6 @@ Computer Science & Engineering Undergrad
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hammadmustafagundroo&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</div>
-
 ## 🤝 Contact Me
 <div align="center">
   <a href="https://discord.gg/Sd3ERe4NTR">
