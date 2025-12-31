@@ -6,12 +6,21 @@
 
 Computer Science & Engineering Undergrad
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+## 🌍 My Code Around the World
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Hammadmustafagundroo/github-world-map/main/assets/world-map.svg?nocache=1"
+    alt="World Map of My GitHub Commits"
+    width="900"
+  />
+</p>
+
 ## 🚀 Present Focus
--  🔭 I'm currently working on **Mastering DSA**, **Problem Solving using C**.
--  🌱 I'm learning **C, C++ and Python**
+- 🔭 I'm currently working on **Mastering DSA**, **Problem Solving using C**
+- 🌱 I'm learning **C, C++ and Python**
 
 ## 🛠️ Languages & Frameworks
 <div align="center">
@@ -21,20 +30,20 @@ Computer Science & Engineering Undergrad
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-  
   <!-- Frameworks & Runtime -->
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
 
-
-  
   <!-- Infrastructure -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammadmustafagundroo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hammadmustafagundroo&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </div>
 
 ## 🤝 Contact Me
